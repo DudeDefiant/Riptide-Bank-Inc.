@@ -5,9 +5,9 @@ This program demonstates the most basic and fundamental application for begineer
 Written entirely in C++ with various levels of adminitrations, it has a dedicated database for file handling.
 Have fun experimenting and gaining knowledge.
 
-//***************************************
-**		For Administrator-	             **
-**					                           **
-**	  Username- admin		               **	
-**	  Password- 123		                 **
-***************************************//
+      //***************************************
+      *		For Administrator-	                *
+      *					                              *
+      *	  Username- admin		                  *	
+      *	  Password- 123		                    *
+      ***************************************//
